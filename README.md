@@ -1,7 +1,7 @@
 <h1 align="center">Hi I'm Amir👋</h1>
 
 <p align="center">
- <a href="https://instagram.com/amirhjabari" alt="Instagram">
+ <a href="https://www.instagram.com/dotnet.lover/" alt="Instagram">
    <img src="https://img.shields.io/badge/-AmirH.Jabari-FF6541?style=plastic&logo=Instagram&logoColor=white" />
  </a>
  <a href="mailto:amirhamzehjabari@outlook.com" alt="Email">
