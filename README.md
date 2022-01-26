@@ -16,6 +16,7 @@
 
 - I'm a .NET Backend Developer
 - I’m currently learning TypeScript
+- I’m currently practicing Unit Testing
 
 ---
 
