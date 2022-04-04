@@ -15,8 +15,10 @@
 ---
 
 - I'm a .NET Backend Developer
-- I’m currently learning TypeScript
-- I’m currently practicing Unit Testing
+
+- I’m currently learning Blazor
+<!-- - I’m currently practicing Unit Testing-->
+- I’m currently building my Weblog with Blazor Wasm
 
 ---
 
