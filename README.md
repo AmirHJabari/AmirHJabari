@@ -14,15 +14,16 @@
 
 ---
 
-- I'm a .NET Backend Developer
+- I'm a Full Stack .NET Developer.
 
 - I’m currently learning Blazor
 <!-- - I’m currently practicing Unit Testing-->
-- I’m currently building my Weblog with Blazor Wasm
+- I’m currently building my Weblog with `Blazor Wasm`, `Razor Pages`, `Asp.Net API`, `Microservices`, `Github Pages`
 
 ---
 
 ## To learn
+- Razor Pages
 - AWS & Azure
 - BenchmarkDotNet
 - Blazor
