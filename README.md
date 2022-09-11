@@ -2,33 +2,30 @@
 
 <p align="center">
  <a href="https://stackoverflow.com/users/11971428/amirjabari" alt="Stackoverflow">
-   <img src="https://img.shields.io/badge/-AmirH.Jabari-FF6541?style=plastic&logo=stackoverflow&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Amir H. Jabari-FF6541?style=plastic&logo=stackoverflow&logoColor=white" />
  </a>
  <a href="mailto:amirhamzehjabari@outlook.com" alt="Email">
    <img src="https://img.shields.io/badge/-amirhamzehjabari@outlook.com-1490DF?style=plastic&logo=Mail.Ru&logoColor=white" />
  </a>
- <a href="https://t.me/amirhjabari" alt="Telegram">
-   <img src="https://img.shields.io/badge/-AmirH.Jabari-29A9EB?style=plastic&logo=Telegram" />
+ <a href="https://www.linkedin.com/in/amir-h-jabari-6857ba237" alt="LinkedIn">
+   <img src="https://img.shields.io/badge/-Amir H. Jabari-29A9EB?style=plastic&logo=linkedin" />
  </a>
 </p>
 
 ---
 
 - I'm a Full Stack .NET Developer.
-
-- I’m currently learning Blazor
+- I’m currently practicing .Net MAUI
 <!-- - I’m currently practicing Unit Testing-->
-- I’m currently building my Weblog with `Blazor Wasm`, `Razor Pages`, `Asp.Net API`, `Microservices`, `Github Pages`
+<!-- - I’m currently building my Weblog with `Blazor Wasm`, `Razor Pages`, `Asp.Net API`, `Microservices`, `Github Pages`-->
 
 ---
 
 ## To learn
-- Razor Pages
-- AWS & Azure
+<!-- - Razor Pages -->
+- Azure
 - BenchmarkDotNet
-- Blazor
 - SASS
-- .Net MAUI
 - ML.&#8204;Net
 
 ## I'm into
