@@ -15,7 +15,7 @@
 ---
 
 - I'm a Full Stack .NET Developer.
-- I’m currently practicing .Net MAUI
+- I’m currently practicing Flutter
 <!-- - I’m currently practicing Unit Testing-->
 <!-- - I’m currently building my Weblog with `Blazor Wasm`, `Razor Pages`, `Asp.Net API`, `Microservices`, `Github Pages`-->
 
@@ -24,7 +24,7 @@
 ## To learn
 <!-- - Razor Pages -->
 - Azure
-- BenchmarkDotNet
+- React
 - SASS
 - ML.&#8204;Net
 
@@ -42,12 +42,9 @@
 - Coding 😍
 
 <!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
